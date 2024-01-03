@@ -1,4 +1,4 @@
 new TypeIt("#hero-frase", {
-  strings: ["Una revolucion empezó "],
+  strings: ["UNA REVOLUCION EMPEZO"],
   speed: 100,
 }).go();
